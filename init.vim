@@ -29,6 +29,11 @@
 :set listchars=nbsp:×,eol:↲,tab:→\ ,trail:·,extends:>,precedes:<,space:·,conceal:·
 :set list
 
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+
+
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'https://github.com/rafi/awesome-vim-colorschemes'
