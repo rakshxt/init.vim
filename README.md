@@ -1,3 +1,3 @@
-## Configuration for Neovim/Vim
+## init.vim
 
 ![..](./depends/ss.png)
