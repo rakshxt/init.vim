@@ -1,3 +1,3 @@
 ## init.vim
 
-![..](./depends/ss.png)
+![..](./dependencies/ss.png)
